@@ -6,7 +6,7 @@
 # catalog-version 0.3
 Name:		texlive-asypictureb
 Version:	0.3
-Release:	2
+Release:	3
 Summary:	User-friendly integration of Asymptote into LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/asypictureb

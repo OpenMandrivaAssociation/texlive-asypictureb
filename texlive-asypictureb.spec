@@ -1,6 +1,6 @@
 Name:		texlive-asypictureb
 Version:	33490
-Release:	1
+Release:	2
 Summary:	User-friendly integration of Asymptote into LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/asypictureb

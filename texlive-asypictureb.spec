@@ -3,7 +3,7 @@ Version:	33490
 Release:	2
 Summary:	User-friendly integration of Asymptote into LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/asypictureb
+URL:		https://www.ctan.org/tex-archive/graphics/asypictureb
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asypictureb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asypictureb.doc.r%{version}.tar.xz
